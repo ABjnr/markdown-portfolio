@@ -1,2 +1,0 @@
-# markdown-portfolio
-Markdown Portfolio
